@@ -42,3 +42,9 @@ cursor: pointer;
     background-color: #f7a93a;
     color:#333;
 }
+.operators{
+    background-color: #f7a93a;
+    color:#333;
+    margin-left: 67.5px;
+    width: 200%;
+}
